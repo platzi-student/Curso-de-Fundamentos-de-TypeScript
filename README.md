@@ -1,4 +1,11 @@
 # Curso-de-Fundamentos-de-TypeScript
+
+* https://www.toptal.com/developers/gitignore
+* https://www.typescriptlang.org/download
+* https://github.com/platzi/curso-typescript-fundamentos/tree/1-step
+* https://code.visualstudio.com/docs/nodejs/working-with-javascript#_type-checking-javascript
+
+
 ¿Qué es TypeScript?
 
 TypeScript agrega sintaxis adicional a JavaScript para admitir una integración más estrecha con su editor . Detecte errores temprano en su editor.
