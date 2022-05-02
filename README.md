@@ -914,7 +914,7 @@ const str = format(rta, 'yyyy/MM/dd')
 
 console.log(str) //1998/01/29
 ```
-
+* https://date-fns.org/docs/Getting-Started#installation
 ## Usando librerías que NO soportan TypeScript
 
 En el ejemplo vamos a usar lodash que es una librería que nos agrega funcionalidades a nuestro javascript. Lo instalamos con `npm install lodash`. Cuando TypeScript no soporta la librería, VSC nos puede ofrecer un paquete para instalar con los tipos de esa librería `npm i --save-dev @types/lodash`. Podemos ver cuales son las librerías soportadas de forma manual en el perfil de **[NPM de TypeScript](https://www.npmjs.com/~types)**
@@ -944,6 +944,8 @@ const data = [
 const rta = _.groupBy(data, item => item.role);
 console.log(rta)
 ```
+* https://lodash.com/
+* https://github.com/lodash/lodash
 
 ## Conclusiones
 
